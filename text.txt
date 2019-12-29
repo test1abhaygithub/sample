@@ -1,0 +1,10 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 78EB-75C5
+
+ Directory of C:\Users\abhay.kolhar\Desktop\Example
+
+29-12-2019  17:02    <DIR>          .
+29-12-2019  17:02    <DIR>          ..
+29-12-2019  17:02                 0 text.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  185,401,528,320 bytes free
